@@ -14,8 +14,11 @@
 
 # Synced Articles
 
+## 🍋 Lemon (Notes / Cheat Sheets)
+- be679be46fd80c.md (Lint/Format tool settings for commit and PR, 2025/09/07)
+
 ## 🥝 Kiwi (Libraries)
-- ac07cc43faea5b.md  (Storybook version differences)
+- ac07cc43faea5b.md (Storybook version differences, 2025/09/29)
 
 ## 🍒 Cherry (React Hooks & Components)
 
