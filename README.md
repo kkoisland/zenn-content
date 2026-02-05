@@ -4,12 +4,13 @@
 
 #　Article Categories (Emoji)
 
-🍋 Lemon: Notes / Cheat Sheets  
-🍇 Grape: JavaScript Basics  
-🍒 Cherry: React Hooks & Components  
-🍓 Strawberry: React Features  
-🥝 Kiwi: Libraries  
-🍑 Peach: Redux Toolkit & State Management  
+🍋 Lemon: Notes / Cheat Sheets
+🍇 Grape: JavaScript Basics
+🍒 Cherry: React Hooks & Components
+🍓 Strawberry: React Features
+🥝 Kiwi: Libraries
+🍑 Peach: Redux Toolkit & State Management
+🍊 Orange: AI & Development Workflow
 🥂🍷 Cheers: Finished Projects
 
 # Synced Articles
@@ -53,6 +54,9 @@
 - 17b19d22d716a7.md (Redux Toolkit and RTK Query: overview, 2024/07/15)
 - 8ba70e2cd8f7a8.md (Redux Toolkit slice basics: initialState, reducers, extraReducers, 2024/08/11)
 - e7dfe4dc8b8495.md (RTK Query: hooks vs dispatch function examples, 2024/08/12)
+
+## 🍊 Orange (AI & Development Workflow)
+- f4f49b721f23b0.md (My AI-powered development style, 2026/02/03)
 
 ## 🥂🍷 Cheers (Finished Projects)
 - 9137d8705c56ab.md (React × canvas-confetti app, 2025/07/02)
