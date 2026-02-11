@@ -10,7 +10,7 @@
 🍓 Strawberry: React Features
 🥝 Kiwi: Libraries
 🍑 Peach: Redux Toolkit & State Management
-🍊 Orange: AI & Development Workflow
+🍌 Banana: AI & Development Workflow
 🥂🍷 Cheers: Finished Projects
 
 # Synced Articles
@@ -55,7 +55,7 @@
 - 8ba70e2cd8f7a8.md (Redux Toolkit slice basics: initialState, reducers, extraReducers, 2024/08/11)
 - e7dfe4dc8b8495.md (RTK Query: hooks vs dispatch function examples, 2024/08/12)
 
-## 🍊 Orange (AI & Development Workflow)
+## 🍌 Banana (AI & Development Workflow)
 - f4f49b721f23b0.md (My AI-powered development style, 2026/02/03)
 
 ## 🥂🍷 Cheers (Finished Projects)
