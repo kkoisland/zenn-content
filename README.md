@@ -49,7 +49,7 @@
 - 3d5cd344402dd9.md (Form vs RSC Form, 2025/09/06)
 
 ## 🍓 Strawberry (Architecture & Diagrams)
-- 043c648822dad3.md (OSM map architecture with diagrams, 2026/02/12)
+- 043c648822dad3.md (OSM map architecture with diagrams, 2026/02/21)
 
 ## 🍑 Peach (Redux Toolkit & State Management)
 - 17b19d22d716a7.md (Redux Toolkit and RTK Query: overview, 2024/07/15)
