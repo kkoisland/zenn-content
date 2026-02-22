@@ -6,8 +6,8 @@
 
 🍋 Lemon: Notes / Cheat Sheets
 🍇 Grape: JavaScript Basics
-🍒 Cherry: React Hooks & Components
-🍓 Strawberry: React Features
+🍒 Cherry: React
+🍓 Strawberry: Architecture & Diagrams
 🥝 Kiwi: Libraries
 🍑 Peach: Redux Toolkit & State Management
 🍌 Banana: AI & Development Workflow
@@ -35,11 +35,7 @@
 - f2d855e16cac44.md (React Router v6 warnings and v7 changes, 2025/01/20)
 - ac07cc43faea5b.md (Storybook version differences, 2025/09/29)
 
-## 🍓 Strawberry (React Features)
-- 446d84d40eaf17.md (React Suspense for lazy loading, 2025/04/20)
-- 3d5cd344402dd9.md (Form vs RSC Form, 2025/09/06)
-
-## 🍒 Cherry (React Hooks & Components)
+## 🍒 Cherry (React)
 - bb8c3074c4b891.md (useRef and useContext examples, 2023/12/18)
 - 43f4f863bbcfd4.md (React custom hooks implementation, 2023/12/28)
 - a338914a920ecb.md (React Router Outlet usage, 2024/03/18)
@@ -49,6 +45,11 @@
 - 16f008a2a0e7cd.md (useReducer: basics and examples, 2024/07/21)
 - 918bebe350ed42.md (useNavigate: React Router navigation and usage, 2024/08/09)
 - 6e7f38461bb69d.md (useRef basics and usage, 2025/03/16)
+- 446d84d40eaf17.md (React Suspense for lazy loading, 2025/04/20)
+- 3d5cd344402dd9.md (Form vs RSC Form, 2025/09/06)
+
+## 🍓 Strawberry (Architecture & Diagrams)
+- 043c648822dad3.md (OSM map architecture with diagrams, 2026/02/12)
 
 ## 🍑 Peach (Redux Toolkit & State Management)
 - 17b19d22d716a7.md (Redux Toolkit and RTK Query: overview, 2024/07/15)
