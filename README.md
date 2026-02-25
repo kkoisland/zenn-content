@@ -49,7 +49,7 @@
 - 3d5cd344402dd9.md (Form vs RSC Form, 2025/09/06)
 
 ## 🍓 Strawberry (Architecture & Diagrams)
-- 043c648822dad3.md (OSM map architecture with diagrams, 2026/02/21)
+- 043c648822dad3.md (OSM map architecture with diagrams, 2026/02/21) → [Medium](https://medium.com/@kkoisland/map-app-architecture-organized-with-diagrams-no-api-key-required-9d7d16ed2e78)
 
 ## 🍑 Peach (Redux Toolkit & State Management)
 - 17b19d22d716a7.md (Redux Toolkit and RTK Query: overview, 2024/07/15)
@@ -57,8 +57,16 @@
 - e7dfe4dc8b8495.md (RTK Query: hooks vs dispatch function examples, 2024/08/12)
 
 ## 🍌 Banana (AI & Development Workflow)
-- f4f49b721f23b0.md (My AI-powered development style, 2026/02/11)
+- f4f49b721f23b0.md (My AI-powered development style, 2026/02/11) → [Medium](https://medium.com/@kkoisland/my-ai-powered-development-style-winter-2026-cde3c60b673e)
 
 ## 🥂🍷 Cheers (Finished Projects)
 - 9137d8705c56ab.md (React × canvas-confetti app, 2025/07/02)
 - 23cdd26d54d352.md (React CMS for 1997-2018 blog archive, 2025/07/16)
+
+# Medium Articles (English)
+
+> Local drafts for Medium articles, stored in `../best-practice-note/tech/`.
+> Filename: `mYYYYMM_N.md` (e.g. `m202602_1.md`). Add entry here and `→ [Medium](url)` to the Zenn article above when published.
+
+- [Map App Architecture Organized with Diagrams — No API Key Required](../best-practice-note/tech/m202602_2.md) (from 043c648822dad3.md)
+- [My AI-Powered Development Style (Winter 2026)](../best-practice-note/tech/m202602_1.md) (from f4f49b721f23b0.md)
