@@ -60,6 +60,7 @@
 - f4f49b721f23b0.md (My AI-powered development style, 2026/02/11) → [Medium](https://medium.com/@kkoisland/my-ai-powered-development-style-winter-2026-cde3c60b673e)
 
 ## 🥂🍷 Cheers (Finished Projects)
+- 80a92cee5e70bc.md (react-confetti parameter playground, 2026/02/25) → [Medium](https://medium.com/@kkoisland/i-built-a-react-confetti-parameter-playground-bca10b935621)
 - 9137d8705c56ab.md (React × canvas-confetti app, 2025/07/02)
 - 23cdd26d54d352.md (React CMS for 1997-2018 blog archive, 2025/07/16)
 
@@ -68,5 +69,6 @@
 > Local drafts for Medium articles, stored in `../best-practice-note/tech/`.
 > Filename: `mYYYYMM_N.md` (e.g. `m202602_1.md`). Add entry here and `→ [Medium](url)` to the Zenn article above when published.
 
+- [I Built a react-confetti Parameter Playground](../best-practice-note/tech/m202602_3.md) (from 80a92cee5e70bc.md)
 - [Map App Architecture Organized with Diagrams — No API Key Required](../best-practice-note/tech/m202602_2.md) (from 043c648822dad3.md)
 - [My AI-Powered Development Style (Winter 2026)](../best-practice-note/tech/m202602_1.md) (from f4f49b721f23b0.md)
