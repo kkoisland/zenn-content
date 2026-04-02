@@ -19,7 +19,7 @@
 - e3b49ca219c023.md (Git commands cheat sheet, 2023/06/25)
 - 77d591b3354d44.md (AWS services and categories, 2023/12/27)
 - 9df5a22092c796.md (Vite + React/TypeScript project setup and GitHub publish, 2024/09/02)
-- 80e793cb9271b3.md (AI glossary: MCP, RAG, Fine-tuning, etc., 2025/03/24)
+- 80e793cb9271b3.md (AI glossary: MCP, RAG, Fine-tuning, etc., 2025/03/24) → [Medium](https://medium.com/@kkoisland/ai-glossary-agent-rag-fine-tuning-and-more-ffe21876c6ba)
 - be679be46fd80c.md (Lint/Format tool settings for commit and PR, 2025/09/07)
 
 ## 🍇 Grape (JavaScript Basics)
@@ -70,6 +70,7 @@
 > Local drafts for Medium articles, stored in `../best-practice-note/tech/`.
 > Filename: `mYYYYMM_N.md` (e.g. `m202602_1.md`). Add entry here and `→ [Medium](url)` to the Zenn article above when published.
 
+- [AI Glossary: Agent, RAG, Fine-tuning, and More](../best-practice-note/tech/m202603_2.md) (from 80e793cb9271b3.md)
 - [A Map App Where Search Doesn't Move the Map](../best-practice-note/tech/m202603_1.md) (from e22cda8fd5936d.md)
 - [I Built a react-confetti Parameter Playground](../best-practice-note/tech/m202602_3.md) (from 80a92cee5e70bc.md)
 - [Map App Architecture Organized with Diagrams — No API Key Required](../best-practice-note/tech/m202602_2.md) (from 043c648822dad3.md)
